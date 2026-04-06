@@ -1,16 +1,19 @@
-# analisis-ventas-python
-# Análisis de Ventas con Python
+# 📊 Análisis de Ventas con Python
 
-## Descripción
-Proyecto de análisis de datos donde se procesa información de ventas utilizando Python.
+## 📌 Descripción
+Proyecto de análisis de datos donde se procesan registros de ventas utilizando Python.
 
-## Objetivo
-Obtener métricas clave como total de ventas y cantidad de productos vendidos.
+## 🎯 Objetivo
+Calcular métricas clave como el total de ventas y la cantidad de productos vendidos, automatizando el análisis de información.
 
-## Tecnologías
+## 🛠️ Tecnologías utilizadas
 - Python
 - CSV
 
-## Resultados
+## 📈 Resultados
 - Automatización del cálculo de ventas
-- Mejora en el análisis de datos
+- Organización eficiente de datos
+- Base para análisis más avanzados
+
+## 🚀 Aprendizaje
+Este proyecto permitió reforzar habilidades en procesamiento de datos y lógica de programación.
